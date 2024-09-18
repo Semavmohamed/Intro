@@ -1,6 +1,11 @@
 # Intro
 Landing page by html,css,js  
-<<<<<<< HEAD
+
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/responsive-landing-page-by-html-css-js-Ppgh_kh2Io
+
+Any suggestions on how I can improve are welcome!
 
 ![The result for Desktop Screen](./intro-1.png)
 ![The result for Desktop Screen](./intro-2.png)
@@ -8,4 +13,4 @@ Landing page by html,css,js
 =======
 Challenge from Frontendmentor.io
 
->>>>>>> 9ad6c4cd528d3bec9006564ae3ad73dd99b623b9
+
