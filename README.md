@@ -2,9 +2,9 @@
 Landing page by html,css,js  
 <<<<<<< HEAD
 
-![The result for Desktop Screen](./intro-1.PNG)
-![The result for Desktop Screen](./intro-2.PNG)
-![The result for Mobile Screen](./intro-3.PNG)
+![The result for Desktop Screen](./intro-1.png)
+![The result for Desktop Screen](./intro-2.png)
+![The result for Mobile Screen](./intro-3.png)
 =======
 Challenge from Frontendmentor.io
 
